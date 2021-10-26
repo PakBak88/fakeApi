@@ -1,9 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "PakBak" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "data": {
+    "id": "1",
+    "user_key": "2",
+    "is_deleted": false,
+    "newsletter_confirmation": true,
+    "country": "pl",
+    "is_gdpr_country": true,
+    "agreements": []
+  },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
