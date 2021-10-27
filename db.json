@@ -1,11 +1,20 @@
 {
-  "data": {
-    "id": "1",
-    "user_key": "2",
+  "user_32a9b9a7aa95ef02b90d": {
+    "id": "9ace03f3-c637-4bb2-aa1e-b462bea2aec1",
+    "user_key": "32a9b9a7aa95ef02b90d",
     "is_deleted": false,
     "newsletter_confirmation": true,
     "country": "pl",
     "is_gdpr_country": true,
+    "agreements": ["LOGGED-2-1"]
+  },
+  "user_1111111111111111111": {
+    "id": "9ace03f3-c637-4bb2-aa1e-b462bea2aec1",
+    "user_key": "1111111111111111111",
+    "is_deleted": false,
+    "newsletter_confirmation": true,
+    "country": "pl",
+    "is_gdpr_country": false,
     "agreements": []
   },
   "comments": [
