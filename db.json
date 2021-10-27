@@ -6,7 +6,7 @@
     "newsletter_confirmation": true,
     "country": "pl",
     "is_gdpr_country": true,
-    "agreements": ["LOGGED-2-1"]
+    "agreements": ["LOGGED-1-1", "LOGGED-2-1", "LOGGED-3-1"]
   },
   "user_111": {
     "id": "9ace03f3-c637-4bb2-aa1e-b462bea2aec1",
