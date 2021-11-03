@@ -8,6 +8,15 @@
     "is_gdpr_country": true,
     "agreements": ["LOGGED-1-1", "LOGGED-2-1", "LOGGED-3-1"]
   },
+  "user_1bb8f8fb145c704386d7": {
+    "id": "9ace03f3-c637-4bb2-aa1e-b462bea2aec1",
+    "user_key": "32a9b9a7aa95ef02b90d",
+    "is_deleted": false,
+    "newsletter_confirmation": true,
+    "country": "pl",
+    "is_gdpr_country": true,
+    "agreements": ["LOGGED-1-1", "LOGGED-2-1"]
+  },
   "user_111": {
     "id": "9ace03f3-c637-4bb2-aa1e-b462bea2aec1",
     "user_key": "111",
