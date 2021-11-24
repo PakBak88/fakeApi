@@ -17,9 +17,9 @@
     "is_gdpr_country": true,
     "agreements": ["LOGGED-1-1", "LOGGED-2-1"]
   },
-  "user_111": {
+  "user_cd3b252ed259d355afb2": {
     "id": "9ace03f3-c637-4bb2-aa1e-b462bea2aec1",
-    "user_key": "111",
+    "user_key": "cd3b252ed259d355afb2",
     "is_deleted": false,
     "newsletter_confirmation": true,
     "country": "pl",
